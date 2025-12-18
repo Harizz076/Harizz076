@@ -1,29 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=100&section=header&text=HARIZZ%20076&fontSize=50&fontColor=1793D1" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=100&section=header&text=HARIZZ%20076&fontSize=50&fontColor=1793D1" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1793D1&center=true&vCenter=true&width=600&lines=ECE+Dual+Degree+Undergrad;Signal+Processing+x+CogSci;Head+of+Logistics+%40+Felicity+%2B+Infinium;Physiological+System+Optimization" alt="Typing SVG" />
 </div>
 
 ---
 
-### 📂 Operational Profile
-* **Academic**: ECE Dual Degree Undergrad | Digital Signal Processing.
-* **Research**: Music Psychology & Auditory Cognition | MIR Development.
-* **Operations**: Head of Logistics @ Felicity & Infinium.
-* **Conditioning**: Physiological System Optimization | Progressive Overload.
-
----
-
-### 🛠️ Technical Inventory
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,arch,linux,docker,postgres,git&theme=dark" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Architecture-SRAM%20Design-1793D1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Simulation-SPICE%20Modeling-white?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge" />
-</div>
+### 📂 Operational Directory
+* **Research & Engineering**: Operating at the intersection of **Digital Signal Processing** and **Auditory Cognition**. I develop computational models to quantify music-brain interaction.
+* **Logistics & Operations**: **Head of Logistics** for **Felicity** and **Infinium**. Managing systemic resource distribution and high-load festival workflows.
+* **Physiological Efficiency**: Applying ECE principles to conditioning—monitoring progressive overload and metabolic signal-to-noise.
 
 ---
 
@@ -39,8 +27,15 @@
 
 ---
 
+### 🛠️ Technical Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,arch,linux,docker,postgres,git&theme=dark" />
+</div>
+
+---
+
 <div align="left">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-121212?style=flat-square&logo=gmail&logoColor=1793D1" /></a>
-  <a href="https://linkedin.com/in/your-slug"><img src="https://img.shields.io/badge/Network-LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=1793D1" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-121212?style=for-the-badge&logo=gmail&logoColor=1793D1" /></a>
+  <a href="https://linkedin.com/in/your-slug"><img src="https://img.shields.io/badge/Network-LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=1793D1" /></a>
   <img src="https://profile-counter.glitch.me/Harizz076/count.svg" alt="visitor-count" />
 </div>
