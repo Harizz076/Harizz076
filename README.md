@@ -1,48 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=150&section=header&text=HARIZZ%20076&fontSize=70&fontColor=1793D1&desc=ECE%20Dual%20Degree%20|%20Music%20Psychology%20Research&descSize=20&descAlignY=75" alt="Header" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harizz076&theme=tokyonight&no-bg=true&column=4" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1793D1&center=true&vCenter=true&width=600&lines=System+Orchestration:+Felicity+%2B+Infinium;Signal+Processing+x+Auditory+Cognition;Physiological+Optimization" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=100&section=header&text=HARIZZ%20076&fontSize=50&fontColor=1793D1" />
 </div>
 
 ---
 
-### 📂 Operational Overview
-* **Engineering**: ECE Dual Degree | Investigating **Digital Signal Processing** and **Auditory Cognition**.
-* **Logistics**: Head of Logistics for **Felicity** and **Infinium**. Orchestrating high-load systemic event workflows.
-* **Physiology**: Applying ECE principles to conditioning—monitoring progressive overload and metabolic signal-to-noise ratios.
+### 📂 Operational Profile
+* **Academic**: ECE Dual Degree Undergrad | Digital Signal Processing.
+* **Research**: Music Psychology & Auditory Cognition | MIR Development.
+* **Operations**: Head of Logistics @ Felicity & Infinium.
+* **Conditioning**: Physiological System Optimization | Progressive Overload.
 
 ---
 
-### 🎮 Contribution Breakout
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Harizz076/Harizz076/github-breakout/images/breakout-dark.svg" width="100%" />
-</div>
-
----
-
-### 🛠️ Technical Stack
+### 🛠️ Technical Inventory
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,arch,linux,docker,postgres,git&theme=dark" />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Architecture-SRAM%20Design-1793D1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Simulation-SPICE%20Modeling-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge" />
+</div>
+
 ---
 
-### 📈 System Analytics
+### 📊 Performance Metrics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harizz076&show_icons=true&theme=tokyonight&hide_border=true&title_color=1793D1&icon_color=1793D1&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harizz076&layout=donut&theme=tokyonight&hide_border=true&title_color=1793D1&bg_color=0D1117" />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harizz076&theme=tokyonight&no-bg=true&column=4&rank=SSS,SS,S,AAA" />
+</p>
+
 ---
 
 <div align="left">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-121212?style=for-the-badge&logo=gmail&logoColor=1793D1" /></a>
-  <a href="https://linkedin.com/in/your-slug"><img src="https://img.shields.io/badge/Network-LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=1793D1" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-121212?style=flat-square&logo=gmail&logoColor=1793D1" /></a>
+  <a href="https://linkedin.com/in/your-slug"><img src="https://img.shields.io/badge/Network-LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=1793D1" /></a>
   <img src="https://profile-counter.glitch.me/Harizz076/count.svg" alt="visitor-count" />
 </div>
