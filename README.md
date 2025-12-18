@@ -16,7 +16,7 @@
 ### 📊 Performance Metrics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harizz076&show_icons=true&theme=tokyonight&hide_border=true&title_color=1793D1&icon_color=1793D1&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harizz076&layout=donut&theme=tokyonight&hide_border=true&title_color=1793D1&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/Harizz076&layout=donut&theme=tokyonight&hide_border=true&title_color=1793D1&bg_color=0D1117" />
 </div>
 
 <p align="center">
