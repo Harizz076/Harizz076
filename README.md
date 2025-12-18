@@ -9,7 +9,7 @@
 ### Operational Directory
 * **Research & Engineering**: Operating at the intersection of **Digital Signal Processing** and **Auditory Cognition**. I develop computational models to quantify music-brain interaction.
 * **Logistics & Operations**: **Head of Logistics** for **Felicity** and **Infinium**. Managing systemic resource distribution and high-load festival workflows.
-* **Physiological Efficiency**: Applying ECE principles to conditioning—monitoring progressive overload and metabolic signal-to-noise.
+
 
 ---
 
