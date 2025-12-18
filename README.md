@@ -1,60 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=121212&height=180&section=header&text=%E2%9C%85%20Harizz076&fontSize=60&fontColor=1DB954&desc=Verified%20ECE%20%7C%20Signal%20Processing%20%7C%20Cognitive%20Research&descSize=20&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=FC3C44&height=160&section=header&text=%EF%A3%BF%20Harizz076&fontSize=60&fontColor=ffffff&desc=Featured%20Artist:%20ECE%20%7C%20Signal%20Processing%20%7C%20CogSci&descSize=20&descAlignY=75" />
 
 <br>
 
-<a href="https://github.com/novatorem/spotify-now-playing">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Harizz076&cover_image=true&theme=novatorem&show_status=true" alt="Now Playing" />
-</a>
-
-<br>
-
-<p align="center">
-  <b>Dual Degree Progress</b><br>
-  <code>0:00</code> <img src="https://geps.dev/progress/75?dangerColor=1DB954&warningColor=1DB954&successColor=1DB954" width="300" /> <code>4:00</code>
-</p>
+<table>
+  <tr>
+    <td align="center" width="400">
+      <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=24&pause=1000&color=FC3C44&center=true&vCenter=true&width=400&lines=Now+Playing:+Music+Psychology+Research;Album:+ECE+Dual+Degree;Up+Next:+Cognitive+Signal+Processing" alt="Apple Music Typing" />
+      <br>
+      <code>0:45</code> <img src="https://geps.dev/progress/75?dangerColor=FC3C44&warningColor=FC3C44&successColor=FC3C44" width="250" /> <code>4:00</code>
+      <br><br>
+      <img src="https://img.shields.io/badge/-%E2%8F%AE-white?style=flat&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/-%E2%96%B6%EF%B8%8F-white?style=flat&logoColor=FC3C44" /> 
+      <img src="https://img.shields.io/badge/-%E2%8F%AD-white?style=flat&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💿 Top Tracks (Pinned Projects)
-| # | Title | Album (Domain) | 🕒 Duration (Status) |
+### 🍎 The Essentials (Top Research & Ops)
+| # | Track Title | Project Domain | Status |
 | :--- | :--- | :--- | :--- |
-| 1 | **ListenBrainz / Navidrome** | Music Psychology | `Active Development` |
-| 2 | **Project SYRA** | Cognitive Science | `Experimental` |
-| 3 | **SRAM Sense-Amp Design** | VLSI / ECE | `Optimization` |
-| 4 | **Logistics: Felicity & Infinium** | Operational Systems | `High Load` |
+| 1 | **ListenBrainz / Navidrome** | Music Psychology / MIR | `Playing Now` |
+| 2 | **Project SYRA** | Behavioral CogSci | `Up Next` |
+| 3 | **SRAM Design** | VLSI Engineering | `Replaying` |
+| 4 | **Logistics: Felicity & Infinium** | Operational Orchestration | `Live Event` |
 
 ---
 
-### 🎧 Monthly Listeners (GitHub Analytics)
+### 📂 Library (Technical Stack)
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harizz076&show_icons=true&theme=tokyonight&hide_border=true&title_color=1DB954&icon_color=1DB954&bg_color=121212&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harizz076&layout=donut&theme=tokyonight&hide_border=true&title_color=1DB954&bg_color=121212&text_color=ffffff" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,arch,linux,docker,postgres,git&theme=light" />
 </div>
 
 ---
 
-### 🎹 Your Daily Mix (Tech Stack)
+### 📈 Replay 2025 (Analytics)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,arch,linux,docker,postgres,git&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harizz076&show_icons=true&theme=rose&hide_border=true&title_color=FC3C44&icon_color=FC3C44&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harizz076&layout=donut&theme=rose&hide_border=true&title_color=FC3C44&bg_color=00000000" />
 </div>
 
 ---
 
-### 🦾 Physical Optimization (Gym)
-> *"Treating the body as a high-performance system. Inputs: Progressive Overload. Outputs: System Stability."*
+### 🏃 Fitness+ (Physiological Conditioning)
+> **Active Session:** Treating physical recovery as a high-fidelity system. 
+> **Focus:** Progressive overload, signal-to-noise optimization in metabolic output.
 
 <br>
 
-<h3 align="center">Activity Frequency</h3>
+<h3 align="center">Activity Waveform</h3>
 <img src="https://raw.githubusercontent.com/Harizz076/Harizz076/output/github-contribution-grid-snake.svg" />
 
 ---
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1DB954?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Apple_Music-FC3C44?style=for-the-badge&logo=apple-music&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 </div>
