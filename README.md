@@ -1,80 +1,63 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=121212&height=120&section=header&text=System%20Profile:%20Harizz076&fontSize=30&fontColor=1DB954" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/render?type=soft&color=121212&height=120&section=header&text=Harizz076%20Player&fontSize=35&fontColor=1DB954" />
+
+<table>
+  <tr>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1DB954&width=400&lines=Now+Playing:+Music+Psychology+Research;Track:+Signal+Processing+x+Cognition;Album:+ECE+Dual+Degree;Artist:+Harizz076" alt="Now Playing" />
+      <br>
+      <img src="https://img.shields.io/badge/-%E2%8F%AE-121212?style=flat&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/-%E2%96%B6%EF%B8%8F-121212?style=flat&logoColor=1DB954" /> 
+      <img src="https://img.shields.io/badge/-%E2%8F%AD-121212?style=flat&logoColor=white" />
+      <br><br>
+      <b>Degree Progress</b><br>
+      <img src="https://geps.dev/progress/75?dangerColor=1DB954&warningColor=1DB954&successColor=1DB954" alt="Progress Bar" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📂 Current Playlist: /research-and-logistics
+
+| # | Title | Description | BPM (Status) |
+| :--- | :--- | :--- | :--- |
+| 01 | **ListenBrainz x Navidrome** | MIR: Starred song import integration. | 128 (Active) |
+| 02 | **Project SYRA** | CogSci: Behavioral experiment frameworks. | 110 (Design) |
+| 03 | **SRAM/VLSI Optimization** | ECE: High-performance sense amplifiers. | 145 (Rigorous) |
+| 04 | **Logistics: Felicity/Infinium** | Mgmt: System orchestration & workflows. | 160 (High-Load) |
+
+---
+
+### 🎧 Performance Metrics
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Harizz076&show_icons=true&theme=tokyonight&hide_border=true&title_color=1DB954&icon_color=1DB954&bg_color=121212" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harizz076&layout=donut&theme=tokyonight&hide_border=true&title_color=1DB954&bg_color=121212" />
+
+---
+
+### 🎹 Instrument Rack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,arch,linux,docker,postgres&theme=dark" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=1DB954&center=true&vCenter=true&width=600&lines=Music+Psychology+Research;Signal+Processing+%26+Cognition;Head+of+Logistics+%40+Felicity+%2B+Infinium;Physiological+Optimization" />
-</h1>
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Harizz076/count.svg" alt="system-pings" />
+### 🏋️‍♂️ System Buffers (Fitness)
+> *Treating physiological recovery as a high-load system requirement. Monitoring progressive overload and signal-to-noise ratio in training.*
+
+<br>
+
+### 🎼 Contribution Rhythm
+<img src="https://raw.githubusercontent.com/Harizz076/Harizz076/output/github-contribution-grid-snake.svg" />
+
+---
+
+<div align="left">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Connect-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-slug"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </div>
 
----
-
-### 📂 Directory: /research-and-logistics
-
-**Core Focus**
-Bridging the gap between **Digital Signal Processing** and **Auditory Cognition**. I develop tools for music information retrieval (MIR) and design behavioral experiments to quantify human-music interaction.
-
-**System Orchestration (Logistics)**
-As the **Head of Logistics** for **Felicity** and **Infinium**, I oversee the structural and operational framework for high-scale technical festivals. My focus is on resource optimization and workflow automation within complex event ecosystems.
-
-**Physical Input**
-Outside of ECE and research, time is dedicated to physiological conditioning. I treat fitness as a high-load system requiring consistent monitoring and progressive overload.
-
----
-
-### 🎹 Technical Toolkit (Signal & Logic)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,linux,arch,docker,git" />
-</p>
-
----
-
-### 🎧 Research & Project Tracking
-
-| Project | Domain | Status |
-| :--- | :--- | :--- |
-| **LB-Navidrome** | Music Info Retrieval (MIR) | Integrating starred song imports for ListenBrainz. |
-| **Project SYRA** | Behavioral CogSci | Designing experimental frameworks for music psychology. |
-| **SRAM Design** | VLSI / ECE | High-performance sense amplifier optimization (SPICE). |
-| **Logistic Systems** | Operational Mgmt | Orchestrating vendor and resource flows for Felicity/Infinium. |
-
----
-
-### 📊 System Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harizz076&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=1DB954&icon_color=1DB954" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harizz076&layout=donut&theme=tokyonight&hide_border=true&title_color=1DB954" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harizz076&theme=tokyonight&hide_border=true&stroke=1DB954&ring=1DB954&fire=1DB954" />
-</p>
-
----
-
-### 🎼 Contribution Frequency (Commit Rhythm)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harizz076/Harizz076/output/github-contribution-grid-snake.svg" />
-</p>
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
