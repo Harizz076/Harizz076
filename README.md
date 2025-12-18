@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=120&section=header&text=HARIZZ%20076&fontSize=70&fontColor=1793D1" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=150&section=header&text=HARIZZ%20076&fontSize=70&fontColor=1793D1&desc=ECE%20Dual%20Degree%20|%20Music%20Psychology%20Research&descSize=20&descAlignY=75" alt="Header" />
+</div>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Harizz076&theme=tokyonight&no-bg=true&margin-w=15&column=4" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harizz076&theme=tokyonight&no-bg=true&column=4" alt="Trophies" />
 </div>
 
 <div align="center">
