@@ -1,56 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=1DB954&text=HARIZZ076&fontSize=70&desc=ECE%20Dual%20Degree%20|%20Music%20Psychology%20Research&descSize=20&descAlignY=75" />
-</div>
 
+<img src="https://capsule-render.vercel.app/render?type=rect&color=121212&height=180&section=header&text=%E2%9C%85%20Harizz076&fontSize=60&fontColor=1DB954&desc=Verified%20ECE%20%7C%20Signal%20Processing%20%7C%20Cognitive%20Research&descSize=20&descAlignY=75" />
+
+<br>
+
+<a href="https://github.com/novatorem/spotify-now-playing">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Harizz076&cover_image=true&theme=novatorem&show_status=true" alt="Now Playing" />
+</a>
+
+<br>
+
+<p align="center">
+  <b>Dual Degree Progress</b><br>
+  <code>0:00</code> <img src="https://geps.dev/progress/75?dangerColor=1DB954&warningColor=1DB954&successColor=1DB954" width="300" /> <code>4:00</code>
+</p>
+
+---
+
+### 💿 Top Tracks (Pinned Projects)
+| # | Title | Album (Domain) | 🕒 Duration (Status) |
+| :--- | :--- | :--- | :--- |
+| 1 | **ListenBrainz / Navidrome** | Music Psychology | `Active Development` |
+| 2 | **Project SYRA** | Cognitive Science | `Experimental` |
+| 3 | **SRAM Sense-Amp Design** | VLSI / ECE | `Optimization` |
+| 4 | **Logistics: Felicity & Infinium** | Operational Systems | `High Load` |
+
+---
+
+### 🎧 Monthly Listeners (GitHub Analytics)
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=System+Orchestration:+Felicity+%2B+Infinium;Signal+Processing+x+Auditory+Cognition;Physiological+Optimization" alt="Typing SVG" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harizz076&show_icons=true&theme=tokyonight&hide_border=true&title_color=1DB954&icon_color=1DB954&bg_color=121212&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harizz076&layout=donut&theme=tokyonight&hide_border=true&title_color=1DB954&bg_color=121212&text_color=ffffff" />
 </div>
 
 ---
 
-### 🟢 System Status: Active
-| **Domain** | **Research & Operations** |
-| :--- | :--- |
-| **Cognitive Science** | Analyzing auditory stimuli through DSP principles to quantify music-brain interaction. |
-| **ECE / VLSI** | High-performance SRAM sense amplifier optimization and SPICE modeling. |
-| **Logistics** | Head of Logistics for **Felicity** and **Infinium**; managing high-load event ecosystems. |
-| **Fitness** | Treating physiological conditioning as a system monitoring and progressive overload task. |
-
----
-
-### 🛠️ Hardware & Software Rack
+### 🎹 Your Daily Mix (Tech Stack)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,arch,linux,docker,postgres,git&theme=dark" />
 </div>
 
 ---
 
-### 📊 Performance Metrics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harizz076&show_icons=true&theme=tokyonight&hide_border=true&title_color=1DB954&icon_color=1DB954&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harizz076&layout=donut&theme=tokyonight&hide_border=true&title_color=1DB954&bg_color=00000000" />
-</div>
+### 🦾 Physical Optimization (Gym)
+> *"Treating the body as a high-performance system. Inputs: Progressive Overload. Outputs: System Stability."*
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harizz076&theme=tokyonight&hide_border=true&stroke=1DB954&ring=1DB954&fire=1DB954&bg_color=00000000" />
-</div>
+<br>
 
----
-
-### 🎼 Commit Frequency
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Harizz076/Harizz076/output/github-contribution-grid-snake.svg" />
-</div>
+<h3 align="center">Activity Frequency</h3>
+<img src="https://raw.githubusercontent.com/Harizz076/Harizz076/output/github-contribution-grid-snake.svg" />
 
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG">
-    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=1DB954" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=1DB954" />
-  </a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1DB954?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
 </div>
