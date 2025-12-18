@@ -1,33 +1,32 @@
-name: Generate Breakout Game
+name: generate-breakout-svg
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once a day
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+    - cron: "0 */24 * * *" # Updates once a day
+  workflow_dispatch: # Allows you to trigger it manually
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Explicitly tells GitHub this job needs write access
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate Breakout
-        uses: lowlighter/metrics@master
+      - name: Generate Breakout SVG
+        uses: cyprieng/github-breakout@v1
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          # This specific metric plugin can be configured for game-like outputs
-          # Alternatively, use the specific breakout action:
-      - uses: Platane/snk@v3
-        id: breakout
-        with:
-          github_user_name: Harizz076
-          outputs: |
-            dist/github-breakout.svg
-            dist/github-breakout-dark.svg?palette=github-dark&color_snake=#1793D1
+          github_username: Harizz076
+          # Using Arch Blue for paddle and ball to maintain your aesthetic
+          paddle_color: "#1793D1" 
+          ball_color: "#1793D1"
+
+      - name: Deploy to Output Branch
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: github-breakout # Images will be saved here
+          FOLDER: output
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MESSAGE: "Update breakout game [skip ci]"
