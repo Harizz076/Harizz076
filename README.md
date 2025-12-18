@@ -27,13 +27,6 @@
 
 ### 🛠️ Technical Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,arch,linux,docker,postgres,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,arch,linux,docker,postgres,git,kotlin,c,assembly&theme=dark" />
 </div>
 
----
-
-<div align="left">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-121212?style=for-the-badge&logo=gmail&logoColor=1793D1" /></a>
-  <a href="https://linkedin.com/in/your-slug"><img src="https://img.shields.io/badge/Network-LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=1793D1" /></a>
-  <img src="https://profile-counter.glitch.me/Harizz076/count.svg" alt="visitor-count" />
-</div>
