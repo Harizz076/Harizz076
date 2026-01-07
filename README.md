@@ -8,4 +8,3 @@ Interested in:
 - Scripting and automation
 
 - Gym (if (time) then workout(); else be_sad();)
-- Food (while (awake) eat_good();)
