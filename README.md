@@ -1,10 +1,13 @@
-# Harizz076
+# Sup
 
-> Writing code. Breaking things. Fixing them. Repeat.
+
 
 Interested in:
 - Ecologically valid behavioral research
 - Music cognition
+- Anything Music
 - Scripting and automation
+- Distributed Tracing especially for AI
+- Touching Grass
 
-- Gym (if (time) then workout(); else be_sad();)
+
